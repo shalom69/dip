@@ -13,11 +13,11 @@
 
 ### Документация проекта
 
-[Планирование автоматизации](https://github.com/shalom69/dipl/blob/master/documents/Plan.md)
+[Планирование автоматизации](https://github.com/shalom69/dip/blob/master/documents/Plan.md)
 
-[Отчет по итогам тестирования](https://github.com/shalom69/dipl/blob/master/documents/Report.md)
+[Отчет по итогам тестирования](https://github.com/shalom69/dip/blob/master/documents/Report.md)
 
-[Отчет по итогам автоматизации](https://github.com/shalom69/dipl/blob/master/documents/Summary.md)
+[Отчет по итогам автоматизации](https://github.com/shalom69/dip/blob/master/documents/Summary.md)
 
 ### Необходимое ПО
 IntelliJ IDEA;
@@ -28,7 +28,7 @@ Docker;
 
 ### Инструкция по запуску
 
-1. Склонирровать [репозиторий](https://github.com/shalom69/dipl.git) git clone
+1. Склонирровать [репозиторий](https://github.com/shalom69/dip.git) git clone
 2. Открыть в Intellij IDEA
 3. Запустить контейнер в терминале IntelliJ IDEA:  `docker-compose up -d --force-recreate`
 
