@@ -18,7 +18,7 @@
 Количество тест-кейсов: 48
 - Всего успешных тест-кейсов: MySQL - 31; Posgresql - 32
 - Всего не успешных тест-кейсов: MySQL - 17; Postgresql - 16
-
+![img(1)](https://github.com/shalom69/dip/assets/108269015/dacbf494-f16e-4484-804e-b76ce686eff3)
 https://github.com/shalom69/dip/issues
 
 **Общие рекомендации**
